@@ -1,0 +1,6 @@
+{
+  "name": "Agentic AI Retail Intelligence - L2 Solution & Platform",
+  "description": "Enterprise Agentic AI solution with AI Gateway, SQL & analytical tool calling, ReAct reasoning, and comprehensive retail dataset analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
