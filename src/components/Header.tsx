@@ -97,12 +97,12 @@ export const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab, hasLive
           {/* Status pill & Submission Download */}
           <div className="hidden lg:flex items-center gap-2">
             <a
-              href="/agenticAI_L2_submission.zip"
-              download="agenticAI_L2_submission.zip"
+              href="/101055_shashank_chebrolu_agenticAI_L2.zip"
+              download="101055_shashank_chebrolu_agenticAI_L2.zip"
               className="inline-flex items-center gap-1.5 text-xs font-mono font-medium text-white bg-indigo-600 hover:bg-indigo-700 px-3 py-1.5 rounded-md shadow-xs transition"
-              title="Download pre-built project zip containing data/, database/, src/, tests/, outputs/, evidence/, requirements.txt, README.md"
+              title="Download submission zip (101055_shashank_chebrolu_agenticAI_L2.zip)"
             >
-              <span>Download Submission .ZIP</span>
+              <span>Download 101055 Submission .ZIP</span>
             </a>
             <div className="flex items-center gap-2 text-xs font-mono text-zinc-600 border border-zinc-200 px-2.5 py-1 rounded bg-zinc-50">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />

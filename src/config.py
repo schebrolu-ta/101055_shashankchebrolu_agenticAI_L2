@@ -24,7 +24,7 @@ class AppConfig(BaseModel):
         default_factory=lambda: os.environ.get("PROJECT_ID", "retail-agentic-ai-l2")
     )
     model_name: str = Field(
-        default_factory=lambda: os.environ.get("TIGER_MODEL_NAME", "gemini-3.8-flash")
+        default_factory=lambda: os.environ.get("TIGER_MODEL_NAME", "gemini-2.0-flash")
     )
 
     # MySQL Settings
