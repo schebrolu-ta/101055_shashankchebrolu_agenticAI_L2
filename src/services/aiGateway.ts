@@ -64,8 +64,8 @@ export const defaultGatewayConfig: GatewayConfig = {
   rateLimitTpm: 120000,
   enableSemanticCache: true,
   enableGuardrails: true,
-  apiKeyMasked: 'sk-mh4Z••••••••••••LgA',
-  apiKey: 'sk-mh4ZYLCJ8lj49V8C4ZMLgA',
+  apiKeyMasked: 'sk-••••••••••••••••',
+  apiKey: '',
   userEmail: 'shashank.chebrolu@tigeranalytics.com',
   projectId: 'retail-agentic-ai-l2',
 };
